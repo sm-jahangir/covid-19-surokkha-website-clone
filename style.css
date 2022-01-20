@@ -49,3 +49,11 @@ body {
     border-radius: 10px;
     margin-top: -30px;
 }
+.process__receiving {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 80px;
+}
+.process__receiving h2 {
+    border-left: 5px solid #FF483C;
+}
