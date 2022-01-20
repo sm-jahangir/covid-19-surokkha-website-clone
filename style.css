@@ -20,3 +20,26 @@ body {
 .navbar__bottom:hover {
     border-bottom: 3px solid #203C63;
 }
+
+.vaccine__process {
+    background-image: url(./assets/img/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.check__status {
+    border-left: 5px solid #0D7B2C;
+}
+.vaccine__card {
+    border-left: 5px solid #D8DE00;
+}
+.cartificate {
+    border-left: 5px solid #25BE88;
+}
+.process__box {
+    width: 62%;
+    border-bottom: 6px solid #0A2F8D;
+}
+.process__box__top {
+    width: 100%;
+    margin: auto;
+}
