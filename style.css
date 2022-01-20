@@ -43,3 +43,9 @@ body {
     width: 100%;
     margin: auto;
 }
+
+.hot__line__service {
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: -30px;
+}
